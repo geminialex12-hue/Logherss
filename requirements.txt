@@ -1,7 +1,5 @@
-psutil
-telebot
+pyTelegramBotAPI
 requests
 certifi
 psutil
 telegraph
-requests
