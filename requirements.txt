@@ -1,0 +1,7 @@
+psutil
+telebot
+requests
+certifi
+psutil
+telegraph
+requests
