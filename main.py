@@ -14,9 +14,9 @@ from telegraph import Telegraph
 import requests
 
 Crypto_Pay_API_Token = "161663:AAhep5VUTvoRH7NTohrb1YFO41vQQkzT06e"
-bot = telebot.TeleBot('6573833085:AAFlONF90bjbixaK9GydvoxDA3uOXRO3Ikc', parse_mode='HTML')
-admin_ids = [7041559119]
-log_chat_id = -4155470408
+bot = telebot.TeleBot('9043148910:AAF_ewMZkG7fuIGF-xWfXdIVHeuQ0V-duM0', parse_mode='HTML')
+admin_ids = [8297446667]
+log_chat_id = -3736442705
 
 def create_database():
     conn = sqlite3.connect('database2.db')
